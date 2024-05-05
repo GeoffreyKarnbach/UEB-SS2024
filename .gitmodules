@@ -1,0 +1,4 @@
+[submodule "main-repo"]
+	path = main-repo
+	url = https://github.com/AntiKippi/UEB-Testsuite-2024S
+	branch = master
